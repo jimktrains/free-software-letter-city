@@ -37,9 +37,9 @@ The existence of smooth transition paths, experience of others who have done the
 
 Feel free to contact me directly, but additionally consider the Free Software Foundation (I am a non-affiliate) as a resource as well. They can be contacted by phone at 617-542-5942 or via mail at
 
-    Free Software Foundation
-    51 Franklin Street, Fifth Floor
-    Boston, MA 02110-1301
+Free Software Foundation  
+51 Franklin Street, Fifth Floor  
+Boston, MA 02110-1301  
 
 Thank you,
 
