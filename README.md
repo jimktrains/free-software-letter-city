@@ -62,5 +62,5 @@ Useful Links
 * Free Software Foundation https://www.fsf.org/
 * GNU Project https://gnu.org/
 * Debian Project http://www.debian.org/
-* Trisquel GNU/Linux httpd://trisquel.info/
+* Trisquel GNU/Linux https://trisquel.info/
 * Red Hat Enterprise Linux https://www.redhat.com/products/enterprise-linux/
