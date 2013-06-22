@@ -1,13 +1,13 @@
-&lt;Your Name&gt;
-&lt;Your Address&gt;
-&lt;Your Address 2&gt;
-&lt;Your City, Your State Your ZIP&gt;
-&lt;Your Telephone Number&gt;
+&lt;Your Name&gt;  
+&lt;Your Address&gt;  
+&lt;Your Address 2&gt;  
+&lt;Your City, Your State Your ZIP&gt;  
+&lt;Your Telephone Number&gt;  
 
-Office of Councilmember Their Name
-&lt;Their Address&gt;
-&lt;Their Address 2&gt;
-&lt;Their City, Their State Their ZIP&gt;
+Office of Councilmember Their Name  
+&lt;Their Address&gt;  
+&lt;Their Address 2&gt;  
+&lt;Their City, Their State Their ZIP&gt;  
 
 Re: Free Software, Documents, and Standards
 
