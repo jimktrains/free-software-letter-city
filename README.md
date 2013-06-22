@@ -1,18 +1,17 @@
+<Your Name>gt;
+<Your Address>gt;
+<Your Address 2>gt;
+<Your City, Your State Your ZIP>gt;
+<Your Telephone Number>gt;
 
-<Your Name>
-<Your Address>
-<Your Address 2>
-<Your City>, <Your State> <Your ZIP>
-<Your Telephone Number>
-
-Office of Councilmember <Their Name>
-<Their Address>
-<Their Address 2>
-<Their City>, <Their State> <Their ZIP>
+Office of Councilmember Their Name
+<Their Address>gt;
+<Their Address 2>gt;
+<Their City, Their State Their ZIP>gt;
 
 Re: Free Software, Documents, and Standards
 
-Councilmember <Their Name>:
+Councilmember Their Name:
 
 It has come to my attention that the City still has a number of older computers running Microsoft Windows XP and older versions of Microsoft Office. When the need arises to update their software because XP will no longer be supported, i.e. get security updates, by Microsoft as of April 8, 2014 and Vista on April 11, 2017 [1] these computers will not be able to run the current version of Microsoft Windows, Windows 8, let alone the then-current version.
 
@@ -38,30 +37,30 @@ The existence of smooth transition paths, experience of others who have done the
 
 Feel free to contact me directly, but additionally consider the Free Software Foundation (I am a non-affiliate) as a resource as well. They can be contacted by phone at 617-542-5942 or via mail at
 
-Free Software Foundation
-51 Franklin Street, Fifth Floor
-Boston, MA 02110-1301
+    Free Software Foundation
+    51 Franklin Street, Fifth Floor
+    Boston, MA 02110-1301
 
 Thank you,
 
-<Your Signature>
+<Your Signature>gt;
 
-<Your Name>
+<Your Name>gt;
 
 
 References
 
-    1. Microsoft "Windows lifecycle fact sheet" http://windows.microsoft.com/en-us/windows/products/lifecycle
-    2. Free Software Foundation "What is free Software" https://www.gnu.org/philosophy/free-sw.html
-    3. H-Online "Linux brings over €10 million savings for Munich" 23 November 2012 http://www.h-online.com/open/news/item/Linux-brings-over-EUR10-million-savings-for-Munich-1755802.html
-    4. City of Largo, Florida "Information Technology" http://www.largo.com/department/?fDD=24-0
-    5. Free Software Foundation "What is free software?" http://www.gnu.org/philosophy/free-sw.html
+1. Microsoft "Windows lifecycle fact sheet" http://windows.microsoft.com/en-us/windows/products/lifecycle
+1. Free Software Foundation "What is free Software" https://www.gnu.org/philosophy/free-sw.html
+1. H-Online "Linux brings over €10 million savings for Munich" 23 November 2012 http://www.h-online.com/open/news/item/Linux-brings-over-EUR10-million-savings-for-Munich-1755802.html
+1. City of Largo, Florida "Information Technology" http://www.largo.com/department/?fDD=24-0
+1. Free Software Foundation "What is free software?" http://www.gnu.org/philosophy/free-sw.html
 
 
 Useful Links
 
-    Free Software Foundation https://www.fsf.org/
-    GNU Project https://gnu.org/
-    Debian Project http://www.debian.org/
-    Trisquel GNU/Linux httpd://trisquel.info/
-    Red Hat Enterprise Linux https://www.redhat.com/products/enterprise-linux/
+* Free Software Foundation https://www.fsf.org/
+* GNU Project https://gnu.org/
+* Debian Project http://www.debian.org/
+* Trisquel GNU/Linux httpd://trisquel.info/
+* Red Hat Enterprise Linux https://www.redhat.com/products/enterprise-linux/
