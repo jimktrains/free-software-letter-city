@@ -1,13 +1,13 @@
-<Your Name>gt;
-<Your Address>gt;
-<Your Address 2>gt;
-<Your City, Your State Your ZIP>gt;
-<Your Telephone Number>gt;
+&lt;Your Name&gt;
+&lt;Your Address&gt;
+&lt;Your Address 2&gt;
+&lt;Your City, Your State Your ZIP&gt;
+&lt;Your Telephone Number&gt;
 
 Office of Councilmember Their Name
-<Their Address>gt;
-<Their Address 2>gt;
-<Their City, Their State Their ZIP>gt;
+&lt;Their Address&gt;
+&lt;Their Address 2&gt;
+&lt;Their City, Their State Their ZIP&gt;
 
 Re: Free Software, Documents, and Standards
 
@@ -43,9 +43,9 @@ Feel free to contact me directly, but additionally consider the Free Software Fo
 
 Thank you,
 
-<Your Signature>gt;
+&lt;Your Signature&gt;
 
-<Your Name>gt;
+&lt;Your Name&gt;
 
 
 References
